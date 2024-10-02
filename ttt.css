@@ -1,0 +1,9 @@
+input[type="text"] {
+    height: 100px;
+    width: 80%;
+    background-color: #00ee00;
+}
+
+input[type="date"] {
+    background-color: #00ff00;
+}
